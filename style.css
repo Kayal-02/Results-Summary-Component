@@ -4,11 +4,11 @@
 }
 @font-face {
     font-family:'ExtraBold' ;
-    src: url('assets/fonts/static/HankenGrotesk-ExtraBold.ttf');
+    src: url('./assets/fonts/static/HankenGrotesk-ExtraBold.ttf');
 }
 @font-face {
     font-family: 'Medium';
-    src: url('assets/fonts/static/HankenGrotesk-Medium.ttf');
+    src: url('./assets/fonts/static/HankenGrotesk-Medium.ttf');
 }
 @font-face {
     font-family: 'Variablefont';
